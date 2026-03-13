@@ -1,0 +1,13 @@
+food,calories,carbs,fat,protein
+pizza,266,33,10,11
+hamburger,295,30,12,17
+cheeseburger,303,30,12,17
+burger,295,30,12,17
+sushi,200,28,5,8
+pasta,220,43,1.3,8
+salad,152,11,10,5
+fried_rice,238,34,9,6
+ice_cream,207,24,11,3.5
+steak,271,0,19,25
+chicken_curry,243,6,15,21
+sandwich,250,30,8,12
