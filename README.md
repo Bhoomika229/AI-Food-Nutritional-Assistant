@@ -1,4 +1,4 @@
-# AI Food Nutrition Assistant
+# AI Food Nutrition Assistant (Multimodal AI Project)
 
 A multimodal AI system that detects food from images and provides nutritional analysis and health advice.
 
